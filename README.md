@@ -1,4 +1,4 @@
-# natiaLollie
+# My Github Profile
 Hi 👋 My name is Natia Lollie
 =============================
 
