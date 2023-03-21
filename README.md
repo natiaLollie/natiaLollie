@@ -9,7 +9,7 @@ A.I. Engineer, Web Developer & Teacher
 *   ✉️  You can contact me at [natialollie.developer@gmail.com](mailto:natialollie.developer@gmail.com)
 *   🚀  I'm currently working on [FinanceMe](http://test.success-way.co/)
 *   🧠  I'm learning Artificial Intelligence and Machine Learning
-*   🤝  I'm open to collaborating on interesting projects as a a.i. engineer or web developer
+*   🤝  I'm open to collaborating on interesting projects as a A.I. engineer or web developer
 *   ⚡  Check out my blog all about A.I. and M.L. for beginners
 
 ### Skills 
