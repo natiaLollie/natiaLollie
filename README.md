@@ -1,7 +1,7 @@
 Hi 👋 My name is Natia Lollie
 ====================================================================================================================================
 
-A.I. Engineer, Web Developer & Teacher
+Engineer, Web Developer & Teacher
 --------------------------------------
 
 *   🌍  I'm based in Texas
